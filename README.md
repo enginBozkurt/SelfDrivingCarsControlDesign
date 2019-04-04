@@ -94,3 +94,19 @@ Use ***different terminals*** for the ***client and server***.
 > `\> cd \Coursera\CarlaSimulator\PythonClient\Course1FinalProject`
 
 > `\> python module_7.py`
+
+
+### Final Reminders for troubleshooting tips:
+
+
+- Python 3.7 is not currently compatible with CARLA. Use __Python 3.5.x or Python 3.6.x__ in Windows or Ubuntu.
+
+
+- Allow CarlaUE4 to access through the Windows firewall if prompted to do so.
+
+- CARLA requires networking enabled with the firewall allowing access to the CARLA
+loader, and by default port 2000, 2001 and 2002 (TCP and UDP) available on the
+network. When you first run CARLA in server mode, Windows will prompt you to
+allow the application to access these ports if they are not already accessible on your
+system. If your network does not provide access to port 2000, please look at  FAQ
+section in the installation guides in the Guides folder.
