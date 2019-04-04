@@ -1,4 +1,4 @@
-# SelfDrivingCarsControlDesign
+# Self Driving Car ControlDesign
 
 ## Self Driving Cars Longitudinal and Lateral Control Design 
 
@@ -10,19 +10,19 @@ The waypoints include positions as well as the speed the vehicle should attain. 
 become the reference signal for our controller and navigating to all the waypoints effectively completes the full track.
 
 
-Since the controller reference contains both position and speed, we need to implement both Longitudinal and Lateral Control.
+Since the controller reference contains both position and speed, we need to implement both __Longitudinal and Lateral Control__.
 
 
-The output of the controller will be the vehicle throttle, brake and steering angle commands.
+The output of the controller will be the vehicle __throttle__, __brake__ and __steering angle__ commands.
 
 The throttle and brake come from the Longitudinal speed control and the steering comes from our Lateral Control.
 
 
 If you want to make your own controller design,  I highly recommend that you should consider the following points:
 
-If you open the simulator directory and navigate to the Course1FinalProject folder, you will see a file named controller2d.py
+If you open the simulator directory and navigate to the Course1FinalProject folder, you will see a file named __controller2d.py__
 
-These controller functions are as the following.
+These controller functions are as the following:
 
 
 
