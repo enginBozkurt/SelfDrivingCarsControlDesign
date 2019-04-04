@@ -1,4 +1,4 @@
-# Self Driving Car ControlDesign
+# Self Driving Car Control Design
 
 ## Self Driving Cars Longitudinal and Lateral Control Design 
 
@@ -20,10 +20,11 @@ The throttle and brake come from the Longitudinal speed control and the steering
 
 If you want to make your own controller design,  I highly recommend that you should consider the following points:
 
-If you open the simulator directory and navigate to the Course1FinalProject folder, you will see a file named __controller2d.py__
+If you open the simulator directory and navigate to the __Course1FinalProject folder__, you will see a file named __controller2d.py__
 
 These controller functions are as the following:
 
+![Screenshot_6](https://user-images.githubusercontent.com/30608533/55581623-fb1e8a80-5725-11e9-9764-8145816374df.jpg)
 
 
 You can adjust and re-create these functions according to your own custom controller design.
