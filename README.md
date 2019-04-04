@@ -50,3 +50,47 @@ You can adjust and re-create these functions according to your own custom contro
 ### Screenshot from the application:
 
 ![Screenshot_7](https://user-images.githubusercontent.com/30608533/55583343-52265e80-572a-11e9-9a8d-b4dec7768878.jpg)
+
+
+### Final Notes:
+
+This poject is my own implementation of the  project assignment of Self Driving Cars Specialization offered by University of Toronto on Coursera.
+
+
+- I added Carla Simulator Installation guides for Ubuntu and Windows into the __Guides folder__.
+
+- Both in Windows and Ubuntu, add __Course1FinalProject__ folder into the __CarlaSimulator/PythonClient folder.__
+
+Use ***different terminals*** for the ***client and server***.
+
+### How to run in  Ubuntu:
+
+- __Server terminal:__
+> `$ cd $HOME /opt/CarlaSimulator      # where the CarlaSimulator is located`
+
+> `$ ./CarlaUE4.sh /Game/Maps/RaceTrack -windowed -carla-server -ResX=640 -ResY=480 -benchmark -fps=20`
+
+
+- __Client terminal:__
+> `$ cd $HOME /opt/CarlaSimulator/PythonClient/Course1FinalProject`
+
+> `$ python3 module_7.py`
+
+
+### How to run in Windows:
+
+- __Server terminal:__
+> `\> C:`
+
+> `\> cd \Coursera\CarlaSimulator`
+
+> `\> CarlaUE4.exe /Game/Maps/RaceTrack -windowed -carla-server -benchmark -fps=15 -ResX=640 -ResY=480`
+
+
+
+- __Client terminal:__
+> `\> C:`
+
+> `\> cd \Coursera\CarlaSimulator\PythonClient\Course1FinalProject`
+
+> `\> python module_7.py`
