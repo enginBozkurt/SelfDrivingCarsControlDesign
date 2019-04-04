@@ -22,7 +22,7 @@ If you want to make your own controller design,  I highly recommend that you sho
 
 If you open the simulator directory and navigate to the __Course1FinalProject folder__, you will see a file named __controller2d.py__
 
-These controller functions are as the following:
+### These controller functions are as the following:
 
 ![Screenshot_6](https://user-images.githubusercontent.com/30608533/55581623-fb1e8a80-5725-11e9-9764-8145816374df.jpg)
 
@@ -31,13 +31,13 @@ You can adjust and re-create these functions according to your own custom contro
 
 
 
-The Race Tack including waypoints:
+###  The Race Tack including waypoints:
 
 ![Screenshot_4](https://user-images.githubusercontent.com/30608533/55582000-0e7e2580-5727-11e9-83dd-4bafa30da590.jpg)
-![Screenshot_5](https://user-images.githubusercontent.com/30608533/55582037-1e960500-5727-11e9-9bbf-174d902e5af9.jpg)
 
 
-Some concepts including formulas and expected output of the controller :
+
+### Some concepts including formulas and expected output of the controller :
 
 ![Screenshot_1](https://user-images.githubusercontent.com/30608533/55582638-b516f600-5728-11e9-9e78-a82bc9afa6d7.jpg)
 
@@ -45,3 +45,8 @@ Some concepts including formulas and expected output of the controller :
 
 ![Screenshot_3](https://user-images.githubusercontent.com/30608533/55582672-be07c780-5728-11e9-9cf3-687fa3179771.jpg)
 
+
+
+### Screenshot from the application:
+
+![Screenshot_7](https://user-images.githubusercontent.com/30608533/55583343-52265e80-572a-11e9-9a8d-b4dec7768878.jpg)
