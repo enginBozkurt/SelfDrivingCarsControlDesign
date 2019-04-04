@@ -29,3 +29,6 @@ These controller functions are as the following:
 
 You can adjust and re-create these functions according to your own custom controller design.
 
+Thr Race Tack including waypoints:
+
+
