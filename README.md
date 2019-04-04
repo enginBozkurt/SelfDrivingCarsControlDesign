@@ -37,5 +37,11 @@ The Race Tack including waypoints:
 ![Screenshot_5](https://user-images.githubusercontent.com/30608533/55582037-1e960500-5727-11e9-9bbf-174d902e5af9.jpg)
 
 
-Some concepts including formulas :
+Some concepts including formulas and expected output of the controller :
+
+![Screenshot_1](https://user-images.githubusercontent.com/30608533/55582638-b516f600-5728-11e9-9e78-a82bc9afa6d7.jpg)
+
+![Screenshot_2](https://user-images.githubusercontent.com/30608533/55582651-b9431380-5728-11e9-9a26-46e08467ffd3.jpg)
+
+![Screenshot_3](https://user-images.githubusercontent.com/30608533/55582672-be07c780-5728-11e9-9cf3-687fa3179771.jpg)
 
